@@ -1,4 +1,4 @@
-基本文法(Basic grammar)
+Ⅰ.基本文法(Basic grammar)
 
 for (初期化; 条件; 更新) {
     // ループ本体（複数の文が記述可能）
@@ -23,3 +23,12 @@ for (初期化; 条件; 更新) {
 4. If the loop body contains only one statement, the {} braces can be omitted,
 　　but it is not recommended for clarity.
 　　ループ本体が1文のみの場合、{}（中括弧）を省略できますが、可読性のため非推奨です。
+
+Ⅱ.Sample Code
+public class ForLoop{
+    public static main(String[] args){
+        for(int i = 0;i < 10;i++){
+            System.out.print("For Loop");
+        }
+    }
+}
