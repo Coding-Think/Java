@@ -22,3 +22,12 @@ public class ForLoop{
 Ⅲ.Multiple initialization or update expressions are allowed, but all variables must have the same type and must be separated by commas.
    初期化 または 更新 は複数記述することができますが、すべての変数は同じ型でなければならず、カンマ（,）で区切る必要があります。
 
+public class ForLoop{
+    public static void main(String[] args){
+     int i = 0;  //この書き方であれば、iのスコープが広がった。
+     for(;i < 10;){
+            System.out.println("For Loop" + i);
+            i++;
+        }
+    }
+}
