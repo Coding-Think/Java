@@ -1,3 +1,8 @@
+/*
+ * Java is a statically typed language.
+ * This means you must declare the type of every variable before using it.(int a = 1;)
+ * (A complete list of data types will be covered in the next chapter.)
+ */
 public class variant_learning{
 
 	public static void main(String[] args){
