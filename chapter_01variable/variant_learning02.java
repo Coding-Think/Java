@@ -17,9 +17,9 @@ public class variant_learning02{
 		//print message
 		
 		System.out.println("The one is");
-		System.out.println(name);
-		System.out.println(age);
-		System.out.println(gender);
-		System.out.println(score);
+		System.out.println(name);// print king
+		System.out.println(age);// print 30
+		System.out.println(gender);// print M
+		System.out.println(score);// print 88.9
 	}
 }
