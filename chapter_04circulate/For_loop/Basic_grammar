@@ -28,7 +28,7 @@ for (初期化; 条件; 更新) {
 public class ForLoop{
     public static main(String[] args){
         for(int i = 0;i < 10;i++){
-            System.out.println("For Loop");
+            System.out.println("For Loop" + i);
         }
     }
 }
