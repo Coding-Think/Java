@@ -19,8 +19,8 @@ public class variant_learning{
 		
 		System.out.println("b");//print b
 		
-		System.out.println(a);
+		System.out.println(a);//print 1 
 		
-		System.out.println(b);
+		System.out.println(b);//print 89
 	}
 }
