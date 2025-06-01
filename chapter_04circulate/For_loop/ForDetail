@@ -1,9 +1,8 @@
 
 public class ForLoop{
     public static void main(String[] args){
-     int i;   
-     for(i = 0;i < 10;i++){
-            System.out.println("For Loop" + i);
-        }
+    　　for (初期化; 条件; 更新) {
+     　　　ループ本体（複数の文が記述可能）
+　　　　}
     }
 }
