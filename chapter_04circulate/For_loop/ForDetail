@@ -1,9 +1,24 @@
 Tips and Details(注意点、細かい説明)
 
+Ⅰ.The loop condition is an expression that returns a boolean value.
+   ループ条件は、真偽値（boolean）を返す式です。
+
+Ⅱ.Depending on the scope and needs, the initialization and iteration parts of a for loop can be written outside the loop. However, do not omit the semicolons (;).
+　 使用するスコープや目的に応じて、for 文の初期化と更新部分はループの外に書くことも可能です。ただし、セミコロン（;）は省略しないように注意してください。
+
 public class ForLoop{
     public static void main(String[] args){
-    　　for (初期化; 条件; 更新) {
-     　　　ループ本体（複数の文が記述可能）
-　　　　}
+     int i = 0;  //この書き方であれば、iのスコープが広がった。
+     for(;i < 10;){
+            System.out.println("For Loop" + i);
+            i++;
+        }
     }
 }
+
+質問1：int i = 0;居場所が変化したら、何を変化している？
+質問2：i++;　なぜprint文の下に書いている？上だったらどういう効果？
+
+Ⅲ.Multiple initialization or update expressions are allowed, but all variables must have the same type and must be separated by commas.
+   初期化 または 更新 は複数記述することができますが、すべての変数は同じ型でなければならず、カンマ（,）で区切る必要があります。
+
