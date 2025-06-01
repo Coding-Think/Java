@@ -33,7 +33,7 @@ public class ForLoop{
     }
 }
 
-Ⅲ.Execution Order(iの変化を気を付けて)/実行の順番(Watch out i)
+Ⅲ.Execution Order(iの変化を気を付けて)/実行の順番(Watch out the variable i)
 
 The execution flow follows this order:Initialization → Condition Check → Loop Body → Update.
 It will be easier to understand if you refer to the diagram (For Loop.jpg) along with this explanation.
