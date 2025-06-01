@@ -1,7 +1,7 @@
 Ⅰ.基本文法(Basic grammar)
 
 for (初期化; 条件; 更新) {
-    // ループ本体（複数の文が記述可能）
+     ループ本体（複数の文が記述可能）
 }
 
 説明（for statement structure）
@@ -32,3 +32,10 @@ public class ForLoop{
         }
     }
 }
+
+Ⅲ.Execution Order/実行の順番
+
+The execution flow follows this order:Initialization → Condition Check → Loop Body → Update.
+It will be easier to understand if you refer to the diagram (For Loop.jpg) along with this explanation.
+
+実行の順番は：初期化-->条件-->ループ本体-->更新ということです。(For Loop.jpg)を合わせて見ればわかりやすいと思います。
