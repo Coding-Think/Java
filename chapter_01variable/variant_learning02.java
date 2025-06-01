@@ -1,7 +1,6 @@
 public class variant_learning02{
 
 	public static void main(String[] args){
-    //
     
 		int age = 20;
 		double score = 88.9;
