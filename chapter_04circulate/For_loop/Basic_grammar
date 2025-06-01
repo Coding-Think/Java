@@ -1,3 +1,25 @@
-For(循环变量初始化;循环条件;循环变量迭代){
-        循环操作(语句)
+基本文法(Basic grammar)
+
+for (初期化; 条件; 更新) {
+    // ループ本体（複数の文が記述可能）
 }
+
+説明（for statement structure）
+1. for is a keyword used for loop control.
+   forはループ制御のためのキーワードです。
+
+2. A for loop consists of four elements:
+  (1) initialization of the loop variable
+　　　 ループ変数の初期化
+  (2) loop condition to determine whether to continue
+　　　 ループを続けるかどうかの条件
+  (3) update of the loop variable
+　　　 ループ変数の更新
+  (4) loop body — the code to be executed repeatedly
+　　　 繰り返し実行されるループ本体
+3. The loop body can contain multiple statements.
+　　ループ本体には複数の文を記述できます。
+
+4. If the loop body contains only one statement, the {} braces can be omitted,
+　　but it is not recommended for clarity.
+　　ループ本体が1文のみの場合、{}（中括弧）を省略できますが、可読性のため非推奨です。
