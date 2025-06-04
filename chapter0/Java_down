@@ -1,1 +1,1 @@
-JDK --> Java development kit(Java開発キット) --> JVM--> Java virtual machine(Java仮想マシン)
+JDK --> Java development kit(Java開発キット) --> JRE --> Java Runtime Environment(Java実行環境) --> JVM--> Java virtual machine(Java仮想マシン)
