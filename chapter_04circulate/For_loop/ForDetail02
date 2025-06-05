@@ -24,10 +24,9 @@ public class ForLoop{
 
 public class ForLoop{
     public static void main(String[] args){
-     int i = 0;  //この書き方であれば、iのスコープが広がった。
-     for(;i < 10;){
-            System.out.println("For Loop" + i);
-            i++;
+     int count = 3;
+     for(int i = 1,int j = 0;i < count;i++,j += 2){
+            System.out.println("i = " + i + "j = " + j);
         }
     }
 }
