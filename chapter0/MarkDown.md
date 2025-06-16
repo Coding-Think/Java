@@ -1,8 +1,9 @@
 # How to mome
-The most important of learning is note.
-I have been learned python.But can not remember anything right now.
-So I think the first thing to write down in my note is how to memo.
-MarkDown is a good way to do it.
+The most important part of learning is taking notes.
+I have been learning Python, but I can't remember anything right now.
+So, I think the first thing I should write down in my notes is **how to memo**.
+Markdown is a good way to do this.
+
 # MarkDown
 ## heading
 *helloworld*
@@ -19,7 +20,6 @@ MarkDown is a good way to do it.
 [Link Text](https://example.com)
 ![Alt Text](https://example.com/image.png)
 > This is a quote.
-
 | Header 1 | Header 2 |
 |----------|----------|
 | Cell 1   | Cell 2   |
