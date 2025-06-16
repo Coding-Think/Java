@@ -1,8 +1,9 @@
 # How to mome
-The most important part of learning is taking notes.
-I have been learning Python, but I can't remember anything right now.
-So, I think the first thing I should write down in my notes is **how to memo**.
-Markdown is a good way to do this.
+
+Taking notes is one of the most important parts of learning.
+I’ve been learning Python, but right now I can’t remember much.
+So, the first thing I need to write in my notes is **how to take effective memos**.
+I’ve decided to use Markdown — a simple and powerful way to write and organize notes.
 
 # MarkDown
 ## heading
