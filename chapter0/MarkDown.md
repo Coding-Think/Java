@@ -20,6 +20,7 @@ Markdown is a good way to do this.
 [Link Text](https://example.com)
 ![Alt Text](https://example.com/image.png)
 > This is a quote.
+
 | Header 1 | Header 2 |
 |----------|----------|
 | Cell 1   | Cell 2   |
